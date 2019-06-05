@@ -8,7 +8,7 @@ In this project, I applied supervised learning techniques and an analytical mind
 * Next, I applied a series of transformations and preprocessing techniques to manipulate the data into a workable format. 
 * Then I evaluated several supervised learners and considered which is best suited for the solution. 
 * Afterwards, I optimized the model
-* Finally, I xplored the chosen model and its predictions under the hood, to see just how well it's performing when considering the data it's given.
+* Finally, I explored the chosen model and its predictions under the hood, to see just how well it's performing when considering the data it's given.
 
 ## Project Highlights
 
